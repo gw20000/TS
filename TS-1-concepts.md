@@ -46,7 +46,6 @@ trigger vs code intelligence tooltips : you still author pure JS code without us
 
            applying to variables, functions, functions params,  functions return values
 
-
 TS definition: JS superset ; optional type system (static type examining, including types inferring ).
 
 optional : you still author pure JS code , since you could choose not to use TS type system by not adding extra syntax to JS code.
