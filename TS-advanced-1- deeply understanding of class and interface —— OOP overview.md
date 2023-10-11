@@ -1,6 +1,6 @@
 TS-advanced-1- deeply understanding of class and interface —— OOP overview
 
-OOP is a programming mindset
+OOP is a programming mindset—— a mindset model for programming —— a mindset model for thinking about how to develop the whole program
 
 OOP conceptions:
 
